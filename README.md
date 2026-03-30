@@ -4,7 +4,7 @@ A TUI application for interactively deciphering simple substitution ciphers.
 ## Usage
 The application uses a wordlist to show recommendations of words matching the pattern of currently locked letters. This is optional but recommended, and is supplied using the -w argument. The order of the wordlist matches the order of recommendations, thus a frequency ordered wordlist is recommended, e.g. https://github.com/first20hours/google-10000-english/
 
-`subciph.py [CIPHERTEXT_FILE] -w (WORDLIST)
+`subciph.py [CIPHERTEXT_FILE] -w (WORDLIST)`
 
 ## PRs
 If you'd like to add functionality to the project, there are several features which could be promising:
