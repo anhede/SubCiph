@@ -5,7 +5,7 @@ from __future__ import annotations
 from textual.app import App, ComposeResult
 from textual.binding import Binding
 from textual.containers import Horizontal
-from textual.widgets import Footer, Header, Static
+from textual.widgets import Header, Static
 
 from .model import CipherState
 from .widgets.cipher_panel import CipherPanel
