@@ -1,7 +1,7 @@
 # SubCiph
 A TUI application for interactively deciphering simple substitution ciphers.
 
-<script src="https://asciinema.org/a/879075.js" id="asciicast-879075" async="true"></script>
+[![asciicast](https://asciinema.org/a/879075.png)](https://asciinema.org/a/879075)
 
 ## Usage
 The application uses a wordlist to show recommendations of words matching the pattern of currently locked letters. This is optional but recommended, and is supplied using the -w argument. The order of the wordlist matches the order of recommendations, thus a frequency ordered wordlist is recommended, e.g. https://github.com/first20hours/google-10000-english/
